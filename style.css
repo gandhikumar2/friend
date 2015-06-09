@@ -1,0 +1,16 @@
+/* '.sideheading' is called selector. */
+.sideheading {
+  width: 400px; /* 'width' is property of selector and '200px'
+  is value of width property.
+  */
+  display: inline-block;
+}
+.textcolor {
+  color: yellow;
+}
+#bigHeading {
+  color: green;
+}
+p {
+  font-size : 22px;
+}
